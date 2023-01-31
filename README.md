@@ -6,6 +6,10 @@ I gathered data, analyzed the survey data, and predicted customer satisfaction u
 
 ![2](https://user-images.githubusercontent.com/74384259/215562618-f3d89a87-5258-47dc-b4fd-61597b0d05d4.jpeg)
 
+The circuit for connecting  "customer satisfaction measurement" device                                                                                         
+
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/74384259/215740485-ab863201-0509-4c65-977f-9693afe028b4.png">
+
 I got 98% in ROC_AUC, which was nearly perfect. because when two curves completely don’t overlap, the separability of the model is optimal. The XGBoost model can clearly distinguish between the classes of "satisfied" and "unsatisfied." with 99% precision and 100% recall.
 ![I19](https://user-images.githubusercontent.com/74384259/215728873-0f131b54-c94c-4e4b-9037-d1cca3ff9ceb.png)
 
