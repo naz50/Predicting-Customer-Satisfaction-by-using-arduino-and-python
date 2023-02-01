@@ -67,9 +67,26 @@ Relationship between time series and customers Age
 
 
 
-spss                                                                                                                                                            
+Data analysis by SPSS
+
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/74384259/216130078-3063e97f-d4bf-4bdf-92fc-b7c4208483e0.png">
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/74384259/216130865-96d62028-681d-4230-8933-68166487c586.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/74384259/216131067-a756b786-ab75-45f9-b48b-ebecf3c08110.png">
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/74384259/216131176-31d635c5-bc0e-4711-9ae1-6db70a3bd1bb.png">
+
 ![image](https://user-images.githubusercontent.com/74384259/216126280-97a798c3-65ba-490a-946b-c8a693853d66.png)
 ![image](https://user-images.githubusercontent.com/74384259/216126596-fbf21d1b-0f33-40ea-9e53-3887d8007c01.png)
+![image](https://user-images.githubusercontent.com/74384259/216131625-d3128156-5f6a-428e-b546-d40466124086.png)
+![image](https://user-images.githubusercontent.com/74384259/216131670-53f82263-df3f-4fc6-b899-504081619931.png)
+![image](https://user-images.githubusercontent.com/74384259/216131738-dd796675-4567-4882-be3f-0bfecdffc09a.png)
+![image](https://user-images.githubusercontent.com/74384259/216131845-615d7427-75aa-4622-90da-ba5baf994017.png)
+![image](https://user-images.githubusercontent.com/74384259/216131955-4206cc88-0e77-4ea0-8a30-8a8246354efd.png)
+![image](https://user-images.githubusercontent.com/74384259/216131996-b13f567b-8fc1-4ed0-a603-1403ef00f5c0.png)
+![image](https://user-images.githubusercontent.com/74384259/216132069-496a565b-e1e6-4e7f-9060-5c1c408aeb67.png)
+
+
+
+
 
 
 
