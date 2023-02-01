@@ -1,6 +1,7 @@
 **# Predicting-Customer-Satisfaction-by-using-arduino-and-python**
 
 I gathered data, analyzed the survey data, and predicted customer satisfaction using survey data from the customer satisfaction measurement device that I previously built.
+**I collected data, analyzed survey data, and projected customer satisfaction using survey data from a customer satisfaction measurement I built earlier. The goal is to adopt the idea of a virtual coffee shop to collect data and then measure customer satisfaction votes, mine it, analyze it, and visualize it using Python, Arduino editor, and SPSS.**
 
 **"Satisfied" Class**   
 
