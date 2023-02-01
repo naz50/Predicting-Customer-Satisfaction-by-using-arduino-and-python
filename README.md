@@ -88,10 +88,14 @@ Previously, we normalized our dataset via StandardScaler .
 ![I14](https://user-images.githubusercontent.com/74384259/215731281-092f4e17-2b7c-4f6c-87f2-35fd00541980.png)
 
 
-**Heatmap of dataset**                                                                                                                                                 
+**Heatmap of dataset** 
+**To find out which features have a significant correlation with customer satisfaction, let's look at a correlation heatmap.**                                                                                                                                                                               
 ![I17](https://user-images.githubusercontent.com/74384259/215731377-7579c6ac-9535-44ed-ae80-94932dbcb9d4.png)
 
 
+**Model Comparison and Conclusions:**
+
+**We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.**                                                                                                      
 
 **Data Analysis by SPSS**
 
@@ -113,7 +117,7 @@ Previously, we normalized our dataset via StandardScaler .
 ![image](https://user-images.githubusercontent.com/74384259/216131996-b13f567b-8fc1-4ed0-a603-1403ef00f5c0.png)
 ![image](https://user-images.githubusercontent.com/74384259/216132069-496a565b-e1e6-4e7f-9060-5c1c408aeb67.png)
 
-Spilt analysis based on city="MADINAH"
+Spilt analysis based on city="MADINAH"                                                                                                                         
 ![image](https://user-images.githubusercontent.com/74384259/216157929-e9933b35-dc76-4b1f-af3b-436f4bef93c0.png)
 
 ![image](https://user-images.githubusercontent.com/74384259/216157987-ef42d285-0f54-45e2-890d-1c6b3699c7c1.png)
@@ -134,7 +138,7 @@ Spilt analysis based on city="MADINAH"
 
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/74384259/216159553-8f8f02d4-b3c9-498d-8ac0-0f40ccd03c83.png">
 
-Spilt analysis based on city="JEDDAH"
+Spilt analysis based on city="JEDDAH"                                                                                                                
 
 ![image](https://user-images.githubusercontent.com/74384259/216159675-4c95afba-e94a-48f0-bce5-841db703b4f5.png)
 
@@ -145,19 +149,6 @@ Spilt analysis based on city="JEDDAH"
 ![image](https://user-images.githubusercontent.com/74384259/216159897-f156c3c2-444c-4aec-8351-429be9017429.png)
 
 
-
-
-
-
-
-
-
-
-
-
-**Model Comparison and Conclusions:**
-
-**We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.**
 
 
 
