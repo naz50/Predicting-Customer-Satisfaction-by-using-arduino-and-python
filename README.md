@@ -6,11 +6,11 @@ I gathered data, analyzed the survey data, and predicted customer satisfaction u
 
 ![1_](https://user-images.githubusercontent.com/74384259/215562611-5fa12d7a-c965-4861-8380-08e954ba7b6c.jpeg)
 
-**"unSatisfied" Class**                                                                                                                                             
+**"Unsatisfied" Class**                                                                                                                                             
 
 ![2](https://user-images.githubusercontent.com/74384259/215562618-f3d89a87-5258-47dc-b4fd-61597b0d05d4.jpeg)
 
-**The circuit for connecting  "Customer Satisfaction Measurement" device : **                                                                                       
+**The circuit for connecting  "Customer Satisfaction Measurement" device :**                                                                                       
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
 
@@ -50,7 +50,7 @@ Previously, we normalized our dataset via StandardScaler .
 ![I3](https://user-images.githubusercontent.com/74384259/215729932-232253b7-6e58-43d7-9841-ebeea90663c1.png)
 
 
-Here the number of responses for females is more than for males                                                                                                    
+**Here the number of responses for females is more than for males**                                                                                                   
 ![I120](https://user-images.githubusercontent.com/74384259/215728500-6a28b53d-c2cf-4d52-8d30-ed33121d6865.png)
 
 
@@ -87,14 +87,14 @@ Here the number of responses for females is more than for males
 
 **Data Analysis by SPSS**
 
-Statistics Tables of dataset                                                                                                                                        
+**Statistics Tables of dataset**                                                                                                                                        
 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/74384259/216130078-3063e97f-d4bf-4bdf-92fc-b7c4208483e0.png">
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/74384259/216130865-96d62028-681d-4230-8933-68166487c586.png">
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/74384259/216131067-a756b786-ab75-45f9-b48b-ebecf3c08110.png">
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/74384259/216131176-31d635c5-bc0e-4711-9ae1-6db70a3bd1bb.png">
 
-Statistics Charts of dataset                                                                                                                                                                                                                                                                                                             
+**Statistics Charts of dataset**                                                                                                                                                                                                                                                                                                           
 ![image](https://user-images.githubusercontent.com/74384259/216126280-97a798c3-65ba-490a-946b-c8a693853d66.png)
 ![image](https://user-images.githubusercontent.com/74384259/216126596-fbf21d1b-0f33-40ea-9e53-3887d8007c01.png)
 ![image](https://user-images.githubusercontent.com/74384259/216131625-d3128156-5f6a-428e-b546-d40466124086.png)
@@ -107,6 +107,7 @@ Statistics Charts of dataset
 
 
 **Model Comparison and Conclusions:**
+
 We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.
 
 
