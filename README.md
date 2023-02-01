@@ -1,29 +1,29 @@
-# Predicting-Customer-Satisfaction-by-using-arduino-and-python
+**# Predicting-Customer-Satisfaction-by-using-arduino-and-python**
 
 I gathered data, analyzed the survey data, and predicted customer satisfaction using survey data from the customer satisfaction measurement device that I previously built.
 
-"satisfied" Class   
+**"Satisfied" Class**   
 
 ![1_](https://user-images.githubusercontent.com/74384259/215562611-5fa12d7a-c965-4861-8380-08e954ba7b6c.jpeg)
 
-"unsatisfied" Class                                                                                                                                             
+**"unSatisfied" Class**                                                                                                                                             
 
 ![2](https://user-images.githubusercontent.com/74384259/215562618-f3d89a87-5258-47dc-b4fd-61597b0d05d4.jpeg)
 
-The circuit for connecting  "Customer Satisfaction Measurement" device :                                                                                         
+**The circuit for connecting  "Customer Satisfaction Measurement" device : **                                                                                       
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
 
- XGBoost Model Evaluation:                                                                                                                                           
+**XGBoost Model Evaluation:**                                                                                                                                       
 
 I got 100% in ROC_AUC, which is perfect. because when two curves completely don’t overlap, the separability of the model is optimal. The XGBoost model can clearly distinguish between the classes of "satisfied" and "unsatisfied." with 99% precision and 100% recall.
 ![I19](https://user-images.githubusercontent.com/74384259/215728873-0f131b54-c94c-4e4b-9037-d1cca3ff9ceb.png)
 
-Here is a classification report:                                                                                                                                     
+**Here is a classification report:**                                                                                                                                    
 
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/74384259/216139055-0a602058-1749-4eed-bdfd-974ea0479441.png">
 
-100% in ROC_AUC                                                                                                                                                     
+**100% in ROC_AUC**                                                                                                                                                     
 ![7088-auc](https://user-images.githubusercontent.com/74384259/216135595-b3a1f031-028c-46a8-bc92-e2af0506454d.png)
 
 Confusion_matrix, Roc_auc_Score, Accuracy_score, Plot_confusion_matrix                                                                                              
@@ -38,7 +38,7 @@ Also, while cleaning the data, I removed the "neutral" responses because they we
 Previously, we normalized our dataset via StandardScaler .
 
 
-The results of the responses to the survey                                                                                                                                                                                                                                                                                                                                                                                                                       
+**The results of the responses to the survey**                                                                                                                                                                                                                                                                                                                                                                                                                      
 ![I6](https://user-images.githubusercontent.com/74384259/215729699-d0094101-c66b-4c02-9480-c52bf1c45fb9.png)
 
 ![I2](https://user-images.githubusercontent.com/74384259/215729702-ed20f6ed-d2a8-430f-aad4-6174dc6ed50f.png)
@@ -54,14 +54,14 @@ Here the number of responses for females is more than for males
 ![I120](https://user-images.githubusercontent.com/74384259/215728500-6a28b53d-c2cf-4d52-8d30-ed33121d6865.png)
 
 
-Total responses by branch and Age                                                                                                                                   
+**Total responses by branch and Age**                                                                                                                                  
 ![I8](https://user-images.githubusercontent.com/74384259/215728703-0b7429f7-11aa-4a9e-82a3-ed8d6b5b422f.png)
 
 ![I11](https://user-images.githubusercontent.com/74384259/215728709-e3f597b9-f82a-46eb-9dbe-7cbba6b7484e.png)
 
 
 
-Total responses by product and Age                                                                                                                                 
+**Total responses by product and Age**                                                                                                                                
 ![I9](https://user-images.githubusercontent.com/74384259/215730537-cebfd9f6-18fa-4444-85b0-4c6d5abc35f6.png)
 
 ![3-02](https://user-images.githubusercontent.com/74384259/215730541-a8de95c3-0489-4de5-8504-8db63c5e268b.png)
@@ -69,29 +69,32 @@ Total responses by product and Age
 
 
 
-The most frequent customers of the coffee shop                                                                                                                      
+**The most frequent customers of the coffee shop**                                                                                                                     
 ![I13](https://user-images.githubusercontent.com/74384259/215730977-7790bf14-5d81-4889-a872-976ba30af021.png)
 
 
 
-Relationship between time series and customers Age
+**Relationship between time series and customers Age**
 ![I15](https://user-images.githubusercontent.com/74384259/215731274-83a5c7f8-99b0-4731-ae2d-dd11c6d4730b.png)
 
 ![I14](https://user-images.githubusercontent.com/74384259/215731281-092f4e17-2b7c-4f6c-87f2-35fd00541980.png)
 
 
-
+**Heatmap of dataset**                                                                                                                                                 
 ![I17](https://user-images.githubusercontent.com/74384259/215731377-7579c6ac-9535-44ed-ae80-94932dbcb9d4.png)
 
 
 
-Data Analysis by SPSS
+**Data Analysis by SPSS**
+
+Statistics Tables of dataset                                                                                                                                        
 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/74384259/216130078-3063e97f-d4bf-4bdf-92fc-b7c4208483e0.png">
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/74384259/216130865-96d62028-681d-4230-8933-68166487c586.png">
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/74384259/216131067-a756b786-ab75-45f9-b48b-ebecf3c08110.png">
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/74384259/216131176-31d635c5-bc0e-4711-9ae1-6db70a3bd1bb.png">
 
+Statistics Charts of dataset                                                                                                                                                                                                                                                                                                             
 ![image](https://user-images.githubusercontent.com/74384259/216126280-97a798c3-65ba-490a-946b-c8a693853d66.png)
 ![image](https://user-images.githubusercontent.com/74384259/216126596-fbf21d1b-0f33-40ea-9e53-3887d8007c01.png)
 ![image](https://user-images.githubusercontent.com/74384259/216131625-d3128156-5f6a-428e-b546-d40466124086.png)
@@ -103,7 +106,7 @@ Data Analysis by SPSS
 ![image](https://user-images.githubusercontent.com/74384259/216132069-496a565b-e1e6-4e7f-9060-5c1c408aeb67.png)
 
 
-Model Comparison and Conclusions:
+**Model Comparison and Conclusions:**
 We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.
 
 
