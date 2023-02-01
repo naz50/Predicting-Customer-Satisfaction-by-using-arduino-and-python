@@ -16,6 +16,7 @@
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
 
 **Arduino Code with design circuit CSM in tinkercad.**
+
 <img width="833" alt="image" src="https://user-images.githubusercontent.com/74384259/216153387-1f118ef3-07f1-41d4-8cab-e8a24b6464dc.png">
 
 
@@ -79,8 +80,10 @@ Previously, we normalized our dataset via StandardScaler .
 
 
 
-**Relationship between time series and customers Age**
+**Relationship between time series and customers Age_1**
 ![I15](https://user-images.githubusercontent.com/74384259/215731274-83a5c7f8-99b0-4731-ae2d-dd11c6d4730b.png)
+
+**Relationship between time series and customers Age_2**
 
 ![I14](https://user-images.githubusercontent.com/74384259/215731281-092f4e17-2b7c-4f6c-87f2-35fd00541980.png)
 
