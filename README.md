@@ -35,8 +35,10 @@ Also, while cleaning the data, I removed the "neutral" responses because they we
 
 ![e8k](https://user-images.githubusercontent.com/74384259/215729032-d1d00aec-d472-4b91-9606-65a2f16b8b5a.png)
 
-Previously, we normalized our dataset via StandardScaler                                                                                                                                                                                                                    
-The results of the responses to the survey                                                                                                                                                                                                                                                                                                                                                  
+Previously, we normalized our dataset via StandardScaler .
+
+
+The results of the responses to the survey                                                                                                                                                                                                                                                                                                                                                                                                                       
 ![I6](https://user-images.githubusercontent.com/74384259/215729699-d0094101-c66b-4c02-9480-c52bf1c45fb9.png)
 
 ![I2](https://user-images.githubusercontent.com/74384259/215729702-ed20f6ed-d2a8-430f-aad4-6174dc6ed50f.png)
