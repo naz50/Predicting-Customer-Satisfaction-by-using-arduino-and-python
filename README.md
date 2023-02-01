@@ -10,10 +10,11 @@ The circuit for connecting  "customer satisfaction measurement" device
 
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/74384259/215740485-ab863201-0509-4c65-977f-9693afe028b4.png">
 
-I got 98% in ROC_AUC, which was nearly perfect. because when two curves completely don’t overlap, the separability of the model is optimal. The XGBoost model can clearly distinguish between the classes of "satisfied" and "unsatisfied." with 99% precision and 100% recall.
+I got 100% in ROC_AUC, which was nearly perfect. because when two curves completely don’t overlap, the separability of the model is optimal. The XGBoost model can clearly distinguish between the classes of "satisfied" and "unsatisfied." with 99% precision and 100% recall.
 ![I19](https://user-images.githubusercontent.com/74384259/215728873-0f131b54-c94c-4e4b-9037-d1cca3ff9ceb.png)
 
-![I18](https://user-images.githubusercontent.com/74384259/215728881-ef2153b2-5ee5-4680-8309-356fd55da8ec.png)
+![7088-auc](https://user-images.githubusercontent.com/74384259/216135595-b3a1f031-028c-46a8-bc92-e2af0506454d.png)
+
 
 Also, while cleaning the data, I removed the "neutral" responses because they were few and irrelevant to my objective.                                               
 ![I4](https://user-images.githubusercontent.com/74384259/215729027-73b94a1b-c82a-4f95-a17c-c621fa8da250.png)
@@ -67,7 +68,7 @@ Relationship between time series and customers Age
 
 
 
-Data analysis by SPSS
+Data Analysis by SPSS
 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/74384259/216130078-3063e97f-d4bf-4bdf-92fc-b7c4208483e0.png">
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/74384259/216130865-96d62028-681d-4230-8933-68166487c586.png">
