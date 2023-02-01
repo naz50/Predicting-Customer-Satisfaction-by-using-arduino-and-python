@@ -1,6 +1,7 @@
 **# Predicting-Customer-Satisfaction-by-using-arduino-and-python**
 
-**I collected data, analyzed survey data, and projected customer satisfaction using survey data from a customer satisfaction measurement I built earlier. The goal is to adopt the idea of a virtual coffee shop to collect data and then measure customer satisfaction votes, mine it, analyze it, and visualize it using Python, Arduino editor, and SPSS.**
+**In this project, I collected data, analyzed survey data, and finally visualized customer satisfaction data by using survey data collected from the customer satisfaction measurement (CSM) device that I built earlier. The goal is to adopt the idea of a virtual coffee shop to collect data and then measure customer satisfaction votes, mine it, analyze it, and visualize it using Python, Arduino editor, and SPSS.**
+**Customer Satisfaction Measurement (CSM) assists in identifying the competitive advantages and disadvantages of coffee shop management as well as areas that require changes and improvements to raise the percentages of repeat orders and purchases as well as the proportion of loyal customers.**
 
 **"Satisfied" Class**   
 
@@ -10,9 +11,13 @@
 
 ![2](https://user-images.githubusercontent.com/74384259/215562618-f3d89a87-5258-47dc-b4fd-61597b0d05d4.jpeg)
 
-**The circuit for connecting  "Customer Satisfaction Measurement" device :**                                                                                       
+**The circuit for connecting  "Customer Satisfaction Measurement" (CSM) device :**                                                                                       
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
+
+**Arduino Code with design circuit CSM in tinkercad.**
+<img width="833" alt="image" src="https://user-images.githubusercontent.com/74384259/216153387-1f118ef3-07f1-41d4-8cab-e8a24b6464dc.png">
+
 
 **XGBoost Model Evaluation:**                                                                                                                                       
 
