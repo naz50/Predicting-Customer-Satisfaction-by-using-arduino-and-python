@@ -26,7 +26,7 @@ Here is a classification report:
 100% in ROC_AUC                                                                                                                                                     
 ![7088-auc](https://user-images.githubusercontent.com/74384259/216135595-b3a1f031-028c-46a8-bc92-e2af0506454d.png)
 
-confusion_matrix, roc_auc_score, accuracy_score, plot_confusion_matrix                                                                                              
+Confusion_matrix, Roc_auc_Score, Accuracy_score, Plot_confusion_matrix                                                                                              
 
 <img width="307" alt="image" src="https://user-images.githubusercontent.com/74384259/216137022-09e25caa-ceb2-4510-a01c-5eac35da47a8.png">
 
@@ -34,8 +34,9 @@ Also, while cleaning the data, I removed the "neutral" responses because they we
 ![I4](https://user-images.githubusercontent.com/74384259/215729027-73b94a1b-c82a-4f95-a17c-c621fa8da250.png)
 
 ![e8k](https://user-images.githubusercontent.com/74384259/215729032-d1d00aec-d472-4b91-9606-65a2f16b8b5a.png)
-Previously, we normalized our dataset via StandardScaler                                                                                                           
-The results of the responses to the survey                                                                                                                                                                                                                                               
+
+Previously, we normalized our dataset via StandardScaler                                                                                                                                                                                                                    
+The results of the responses to the survey                                                                                                                                                                                                                                                                                                                                                  
 ![I6](https://user-images.githubusercontent.com/74384259/215729699-d0094101-c66b-4c02-9480-c52bf1c45fb9.png)
 
 ![I2](https://user-images.githubusercontent.com/74384259/215729702-ed20f6ed-d2a8-430f-aad4-6174dc6ed50f.png)
