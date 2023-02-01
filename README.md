@@ -2,11 +2,14 @@
 
 I gathered data, analyzed the survey data, and predicted customer satisfaction using survey data from the customer satisfaction measurement device that I previously built.
 
+"satisfied" Class                                                                                                                                           
 ![1_](https://user-images.githubusercontent.com/74384259/215562611-5fa12d7a-c965-4861-8380-08e954ba7b6c.jpeg)
+
+"unsatisfied" Class                                                                                                                                             
 
 ![2](https://user-images.githubusercontent.com/74384259/215562618-f3d89a87-5258-47dc-b4fd-61597b0d05d4.jpeg)
 
-The circuit for connecting  "customer satisfaction measurement" device                                                                                         
+The circuit for connecting  "Customer Satisfaction Measurement" device :                                                                                         
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
 
