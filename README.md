@@ -2,7 +2,8 @@
 
 I gathered data, analyzed the survey data, and predicted customer satisfaction using survey data from the customer satisfaction measurement device that I previously built.
 
-"satisfied" Class                                                                                                                                           
+"satisfied" Class   
+
 ![1_](https://user-images.githubusercontent.com/74384259/215562611-5fa12d7a-c965-4861-8380-08e954ba7b6c.jpeg)
 
 "unsatisfied" Class                                                                                                                                             
