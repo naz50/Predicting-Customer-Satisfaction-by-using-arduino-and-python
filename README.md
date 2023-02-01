@@ -113,6 +113,47 @@ Previously, we normalized our dataset via StandardScaler .
 ![image](https://user-images.githubusercontent.com/74384259/216131996-b13f567b-8fc1-4ed0-a603-1403ef00f5c0.png)
 ![image](https://user-images.githubusercontent.com/74384259/216132069-496a565b-e1e6-4e7f-9060-5c1c408aeb67.png)
 
+Spilt analysis based on city="MADINAH"
+![image](https://user-images.githubusercontent.com/74384259/216157929-e9933b35-dc76-4b1f-af3b-436f4bef93c0.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216157987-ef42d285-0f54-45e2-890d-1c6b3699c7c1.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216158109-e1c7bf55-bead-4d66-a3d2-3e999af73801.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216158676-6b19f32c-02db-4fa2-b897-61443cdf5f0f.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216158887-043c0526-6aef-41ba-bf6e-23899f555a40.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216158957-e77a9c55-c0e7-4cd7-8f29-e72d24137fad.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216159033-81f89895-6c4e-4230-8500-4caab013f3cf.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216159188-0bcba535-7c7c-45bf-baf2-1aeefdf3f05d.png)
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/74384259/216159413-598b46c8-d607-4566-afac-4210a7916469.png">
+
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/74384259/216159553-8f8f02d4-b3c9-498d-8ac0-0f40ccd03c83.png">
+
+Spilt analysis based on city="JEDDAH"
+
+![image](https://user-images.githubusercontent.com/74384259/216159675-4c95afba-e94a-48f0-bce5-841db703b4f5.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216159735-5812b6ea-71d8-4d47-8219-e6e1c1783b17.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216159821-b33e159c-93a6-4fc3-8761-f28248b11c72.png)
+
+![image](https://user-images.githubusercontent.com/74384259/216159897-f156c3c2-444c-4aec-8351-429be9017429.png)
+
+
+
+
+
+
+
+
+
+
+
 
 **Model Comparison and Conclusions:**
 
