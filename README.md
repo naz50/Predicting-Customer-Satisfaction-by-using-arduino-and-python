@@ -13,11 +13,11 @@ The circuit for connecting  "customer satisfaction measurement" device
 I got 100% in ROC_AUC, which is perfect. because when two curves completely don’t overlap, the separability of the model is optimal. The XGBoost model can clearly distinguish between the classes of "satisfied" and "unsatisfied." with 99% precision and 100% recall.
 ![I19](https://user-images.githubusercontent.com/74384259/215728873-0f131b54-c94c-4e4b-9037-d1cca3ff9ceb.png)
 
-Here is a classification report:
+Here is a classification report:                                                                                                                                     
 
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/74384259/216139055-0a602058-1749-4eed-bdfd-974ea0479441.png">
 
-100% in ROC_AUC
+100% in ROC_AUC                                                                                                                                                     
 ![7088-auc](https://user-images.githubusercontent.com/74384259/216135595-b3a1f031-028c-46a8-bc92-e2af0506454d.png)
 
 <img width="307" alt="image" src="https://user-images.githubusercontent.com/74384259/216137022-09e25caa-ceb2-4510-a01c-5eac35da47a8.png">
