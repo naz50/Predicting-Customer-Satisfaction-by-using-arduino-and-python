@@ -10,6 +10,8 @@ The circuit for connecting  "customer satisfaction measurement" device
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
 
+ XGBoost Model Evaluation:                                                                                                                                           
+
 I got 100% in ROC_AUC, which is perfect. because when two curves completely don’t overlap, the separability of the model is optimal. The XGBoost model can clearly distinguish between the classes of "satisfied" and "unsatisfied." with 99% precision and 100% recall.
 ![I19](https://user-images.githubusercontent.com/74384259/215728873-0f131b54-c94c-4e4b-9037-d1cca3ff9ceb.png)
 
@@ -19,6 +21,8 @@ Here is a classification report:
 
 100% in ROC_AUC                                                                                                                                                     
 ![7088-auc](https://user-images.githubusercontent.com/74384259/216135595-b3a1f031-028c-46a8-bc92-e2af0506454d.png)
+
+confusion_matrix, roc_auc_score, accuracy_score, plot_confusion_matrix                                                                                              
 
 <img width="307" alt="image" src="https://user-images.githubusercontent.com/74384259/216137022-09e25caa-ceb2-4510-a01c-5eac35da47a8.png">
 
@@ -92,9 +96,8 @@ Data Analysis by SPSS
 ![image](https://user-images.githubusercontent.com/74384259/216132069-496a565b-e1e6-4e7f-9060-5c1c408aeb67.png)
 
 
-
-
-
+Model Comparison and Conclusions:
+We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.
 
 
 
