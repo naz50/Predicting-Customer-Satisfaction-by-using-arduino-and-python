@@ -108,7 +108,7 @@ Previously, we normalized our dataset via StandardScaler .
 
 **Model Comparison and Conclusions:**
 
-We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.
+**We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.**
 
 
 
