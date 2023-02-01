@@ -31,9 +31,6 @@ The results of the responses to the survey
 
 ![I3](https://user-images.githubusercontent.com/74384259/215729932-232253b7-6e58-43d7-9841-ebeea90663c1.png)
 
-spss
-![image](https://user-images.githubusercontent.com/74384259/216126280-97a798c3-65ba-490a-946b-c8a693853d66.png)
-
 
 Here the number of responses for females is more than for males                                                                                                    
 ![I120](https://user-images.githubusercontent.com/74384259/215728500-6a28b53d-c2cf-4d52-8d30-ed33121d6865.png)
@@ -67,5 +64,14 @@ Relationship between time series and customers Age
 
 
 ![I17](https://user-images.githubusercontent.com/74384259/215731377-7579c6ac-9535-44ed-ae80-94932dbcb9d4.png)
+
+
+
+spss                                                                                                                                                            
+![image](https://user-images.githubusercontent.com/74384259/216126280-97a798c3-65ba-490a-946b-c8a693853d66.png)
+![image](https://user-images.githubusercontent.com/74384259/216126596-fbf21d1b-0f33-40ea-9e53-3887d8007c01.png)
+
+
+
 
 
