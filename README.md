@@ -15,7 +15,7 @@
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/74384259/216135884-dba3145d-e441-4121-aac3-681063c95742.png">
 
-**Arduino Code with design circuit CSM in tinkercad.**
+**Arduino Code C++ with design circuit CSM in tinkercad.**
 
 <img width="833" alt="image" src="https://user-images.githubusercontent.com/74384259/216153387-1f118ef3-07f1-41d4-8cab-e8a24b6464dc.png">
 
