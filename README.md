@@ -89,6 +89,7 @@ Previously, we normalized our dataset via StandardScaler .
 
 
 **Heatmap of dataset** 
+
 **To find out which features have a significant correlation with customer satisfaction, let's look at a correlation heatmap.**                                                                                                                                                                               
 ![I17](https://user-images.githubusercontent.com/74384259/215731377-7579c6ac-9535-44ed-ae80-94932dbcb9d4.png)
 
