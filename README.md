@@ -61,37 +61,33 @@ Previously, we normalized our dataset via StandardScaler .
 
 
 **Total responses by branch and Age**                                                                                                                                  
-![I8](https://user-images.githubusercontent.com/74384259/215728703-0b7429f7-11aa-4a9e-82a3-ed8d6b5b422f.png)
+![I8](https://user-images.githubusercontent.com/74384259/216368244-c83f8190-4710-4883-93fb-84fda1f89fc3.png)
 
-![I11](https://user-images.githubusercontent.com/74384259/215728709-e3f597b9-f82a-46eb-9dbe-7cbba6b7484e.png)
-
+![I11](https://user-images.githubusercontent.com/74384259/216368329-30a95fd4-d9d9-4661-b7a1-53bc8e694628.png)
 
 
 **Total responses by product and Age**                                                                                                                                
-![I9](https://user-images.githubusercontent.com/74384259/215730537-cebfd9f6-18fa-4444-85b0-4c6d5abc35f6.png)
+![I9](https://user-images.githubusercontent.com/74384259/216368455-f8e3d8b3-f2fa-403e-8a46-40bf57cff45f.png)
 
-![3-02](https://user-images.githubusercontent.com/74384259/215730541-a8de95c3-0489-4de5-8504-8db63c5e268b.png)
-
+![3-02](https://user-images.githubusercontent.com/74384259/216368581-215433a6-ae49-46ba-84c4-66b467970617.png)
 
 
 
 **The most frequent customers of the coffee shop**                                                                                                                     
-![I13](https://user-images.githubusercontent.com/74384259/215730977-7790bf14-5d81-4889-a872-976ba30af021.png)
-
+![I13](https://user-images.githubusercontent.com/74384259/216368697-6f1d7a9a-22b2-46e8-bb57-d8c14fa8a60c.png)
 
 
 **Relationship between time series and customers Age_1**
-![I15](https://user-images.githubusercontent.com/74384259/215731274-83a5c7f8-99b0-4731-ae2d-dd11c6d4730b.png)
+![I15](https://user-images.githubusercontent.com/74384259/216368818-b47018bf-474b-4281-86bf-7f46cd3967bc.png)
 
 **Relationship between time series and customers Age_2**
 
-![I14](https://user-images.githubusercontent.com/74384259/215731281-092f4e17-2b7c-4f6c-87f2-35fd00541980.png)
-
+![I14](https://user-images.githubusercontent.com/74384259/216368922-a72adf91-0375-49c7-8952-81e72d794b49.png)
 
 **Heatmap of dataset** 
 
 **To find out which features have a significant correlation with customer satisfaction, let's look at a correlation heatmap.**                                                                                                                                                                               
-![I17](https://user-images.githubusercontent.com/74384259/215731377-7579c6ac-9535-44ed-ae80-94932dbcb9d4.png)
+![I17](https://user-images.githubusercontent.com/74384259/216369082-07f22913-73d5-4928-8420-9e9731ec8a97.png)
 
 
 **Model Comparison and Conclusions:**
