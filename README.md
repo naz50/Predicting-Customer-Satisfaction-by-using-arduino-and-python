@@ -51,7 +51,7 @@ Previously, we normalized our dataset via StandardScaler .
 
 ![I100](https://user-images.githubusercontent.com/74384259/216367086-86587616-7ae8-4e6f-b6dc-f649bbb7f553.png)
 
-![I6](https://user-images.githubusercontent.com/74384259/216367411-7d39dab3-5a51-4d25-b048-0c418940af15.png)
+![I5](https://user-images.githubusercontent.com/74384259/216367597-03ae5123-d18c-45a9-86f0-f0f1a6621f6a.png)
 
 ![I3](https://user-images.githubusercontent.com/74384259/215729932-232253b7-6e58-43d7-9841-ebeea90663c1.png)
 
