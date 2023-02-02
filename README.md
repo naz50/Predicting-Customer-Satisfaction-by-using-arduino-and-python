@@ -29,7 +29,6 @@ I got 100% in ROC_AUC, which is perfect. because when two curves completely donâ
 
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/74384259/216139055-0a602058-1749-4eed-bdfd-974ea0479441.png">
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/74384259/216370261-c76c3bde-debe-4b3d-ac41-218dce66aa0f.png">
 
 
 **100% in ROC_AUC**                                                                                                                                                     
