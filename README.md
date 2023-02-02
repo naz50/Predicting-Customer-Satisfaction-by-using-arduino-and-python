@@ -47,7 +47,7 @@ Previously, we normalized our dataset via StandardScaler .
 **The results of the responses to the survey**                                                                                                                                                                                                                                                                                                                                                                                                                      
 ![I6](https://user-images.githubusercontent.com/74384259/215729699-d0094101-c66b-4c02-9480-c52bf1c45fb9.png)
 
-![I2](https://user-images.githubusercontent.com/74384259/215729702-ed20f6ed-d2a8-430f-aad4-6174dc6ed50f.png)
+![I2](https://user-images.githubusercontent.com/74384259/216366542-2a63f478-b073-45b3-bb2f-6f2b1f5dcee4.png)
 
 ![I5](https://user-images.githubusercontent.com/74384259/215729703-6f1df777-9efd-44ed-8fd4-434a249555a9.png)
 
