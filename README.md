@@ -3,6 +3,22 @@
 **In this project, I collected data, analyzed survey data, and finally visualized customer satisfaction data by using survey data collected from the customer satisfaction measurement (CSM) device that I built earlier. The goal is to adopt the idea of a virtual coffee shop to collect data and then measure customer satisfaction votes, mine it, analyze it, and visualize it using Python, Arduino editor, SPSS,and Power BI.**
 **Customer Satisfaction Measurement (CSM) assists in identifying the competitive advantages and disadvantages of coffee shop management as well as areas that require changes and improvements to raise the percentages of repeat orders and purchases as well as the proportion of loyal customers.**
 
+ **The survey questions were as follows:**
+
+          Enter your Customer Number ? 
+          Enter your Name ? 
+          Enter your Mobile Number?
+          Sex ?
+          Age ?
+          Enter the Branch Name?
+          City ?
+          The Internet is it quick? Answer (YES or NO) ?
+          The service is it quick? Answer (YES or NO) ?
+          The place (internal or external) where the service was provided? 
+          Do you think the prices are fair? Answer (YES or NO)
+          What motivated you to choose us, primarily? (desserts, cold drink, and hot drink)?
+     
+
 **"Satisfied" Class**   
 
 ![1_](https://user-images.githubusercontent.com/74384259/215562611-5fa12d7a-c965-4861-8380-08e954ba7b6c.jpeg)
