@@ -1,6 +1,6 @@
 **# Predicting-Customer-Satisfaction-by-using-arduino-and-python**
 
-**In this project, I collected data, analyzed survey data, and finally visualized customer satisfaction data by using survey data collected from the customer satisfaction measurement (CSM) device that I built earlier. The goal is to adopt the idea of a virtual coffee shop to collect data and then measure customer satisfaction votes, mine it, analyze it, and visualize it using Python, Arduino editor, SPSS,and Power BI.**
+**In this project, I collected, cleaned, analyzed, and visualized customer satisfaction data using survey data collected from the customer satisfaction measurement (CSM) device that I built earlier. The objective is to adopt the idea of a virtual coffee shop to collect data and then measure customer satisfaction votes, mine, analyze, and visualize it. Python, Arduino editor, SPSS, and Power BI were used in all of the analysis processes.**
 **Customer Satisfaction Measurement (CSM) assists in identifying the competitive advantages and disadvantages of coffee shop management as well as areas that require changes and improvements to raise the percentages of repeat orders and purchases as well as the proportion of loyal customers.**
 
  **The survey questions were as follows:**
