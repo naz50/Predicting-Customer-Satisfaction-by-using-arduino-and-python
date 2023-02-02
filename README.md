@@ -27,8 +27,7 @@ I got 100% in ROC_AUC, which is perfect. because when two curves completely donâ
 
 **Here is a classification report:**                                                                                                                                    
 
-<img width="249" alt="image" src="https://user-images.githubusercontent.com/74384259/216139055-0a602058-1749-4eed-bdfd-974ea0479441.png">
-
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/74384259/216376967-24e1227e-9d2c-4328-9ad4-a36fde9f3282.png">
 
 
 **100% in ROC_AUC**                                                                                                                                                     
