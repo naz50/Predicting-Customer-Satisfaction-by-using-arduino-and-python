@@ -98,6 +98,10 @@ Previously, we normalized our dataset via StandardScaler .
 
 **We have a powerful candidate based on the ROC-AUC measure. Model Comparison and Conclusions All of our other models, including Random Forest and SVM, are outperformed by our XGBoost model.**                                                                                                      
 
+**Data Analysis by Power BI**                                                                                                                                    
+
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/74384259/216321067-bc4c0c89-d0f3-468d-86b1-231f7c06b5ef.png">
+
 **Data Analysis by SPSS**
 
 **Statistics Tables of dataset**                                                                                                                                        
