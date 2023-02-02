@@ -37,7 +37,7 @@ Confusion_matrix, Roc_auc_Score, Accuracy_score, Plot_confusion_matrix
 <img width="307" alt="image" src="https://user-images.githubusercontent.com/74384259/216137022-09e25caa-ceb2-4510-a01c-5eac35da47a8.png">
 
 Also, while cleaning the data, I removed the "neutral" responses because they were few and irrelevant to my objective.                                               
-![I4](https://user-images.githubusercontent.com/74384259/215729027-73b94a1b-c82a-4f95-a17c-c621fa8da250.png)
+![4444](https://user-images.githubusercontent.com/74384259/216366008-0671210d-2d42-430a-98c9-2f6fced094bc.png)
 
 ![e8k](https://user-images.githubusercontent.com/74384259/215729032-d1d00aec-d472-4b91-9606-65a2f16b8b5a.png)
 
